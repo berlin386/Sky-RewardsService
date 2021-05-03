@@ -1,4 +1,5 @@
-Java > 11 
+Please Note: 
+This project requires Java 11 and Maven 3.8.1
   ---------
 
 Installing Maven
