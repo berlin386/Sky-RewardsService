@@ -1,6 +1,8 @@
 Please Note: 
 This project requires Java 11 and Maven 3.8.1
   ---------
+  I have used Test Driven Development principle of Software Development to develop test cases. 
+  I have utilised Java abstract factory design pattern.
 
 Installing Maven
   ----------------
