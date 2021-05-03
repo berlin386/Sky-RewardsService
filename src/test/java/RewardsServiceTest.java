@@ -16,7 +16,9 @@ public class RewardsServiceTest {
         RewardsServiceFactory rewardsServiceFactory = (RewardsServiceFactory) SkyRewardsService.getFactory("rewards_service");
         rewardsService = rewardsServiceFactory.create("rewards_service");
     }
-
+/*
+Following are the four test cases for the desired output:
+*/
 
     @Test
     void shouldThrowErrorForInvalidAccountFormat() {
